@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from dara_modelling import NewStudent
+from fastapi_tutorial_practice.dara_modelling import NewStudent
 
 app = FastAPI(
     title= 'CRUD Operations',

@@ -8,3 +8,6 @@ streamlit
 imblearn
 fastapi
 xgboost
+spacy
+tensorflow
+plotly

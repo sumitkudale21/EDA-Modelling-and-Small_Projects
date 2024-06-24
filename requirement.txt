@@ -11,3 +11,5 @@ xgboost
 spacy
 tensorflow
 plotly
+ann_visualizer
+graphviz
